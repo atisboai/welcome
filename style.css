@@ -65,12 +65,10 @@ body {
     letter-spacing: -0.5px;
 }
 
-.logo-icon {
-    width: 24px;
-    height: 24px;
-    background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
-    border-radius: 6px;
-    display: inline-block;
+.logo-img {
+    height: 60px;
+    width: auto;
+    display: block;
 }
 
 .highlight {
